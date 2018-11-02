@@ -1,0 +1,7 @@
+{
+  "name": "puenmao",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
