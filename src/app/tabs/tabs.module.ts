@@ -1,3 +1,4 @@
+import { AppPage } from './../../../e2e/src/app.po';
 import { IonicModule } from '@ionic/angular';
 import { RouterModule } from '@angular/router';
 import { NgModule } from '@angular/core';
